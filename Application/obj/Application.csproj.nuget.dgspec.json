@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Reactivity\\Application\\Application.csproj": {}
+    "C:\\Code\\ReactwithDotnet\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Reactivity\\Application\\Application.csproj": {
+    "C:\\Code\\ReactwithDotnet\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Reactivity\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Code\\ReactwithDotnet\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Code\\Reactivity\\Application\\Application.csproj",
+        "projectPath": "C:\\Code\\ReactwithDotnet\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\NCKU_Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Reactivity\\Application\\obj\\",
+        "outputPath": "C:\\Code\\ReactwithDotnet\\Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\NCKU_Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\NCKU_Jason\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

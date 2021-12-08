@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YBZLwKVtIuwVOVixWbuBtEEW5tmJVUTHPtY6AdgOfZVbhc6RnxRqALhB9xZQmbFE8F2sHKgac0kb5xU+EFxycw==",
+  "dgSpecHash": "00+ixvV9GvE7V2OXqK2bGGkZIs8HZ/fibs1hT/6qXOi6EclgAz0eYYqW4A0ooBSu0EvP2vUz+1Y+abZXPSANjA==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Reactivity\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Code\\ReactwithDotnet\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

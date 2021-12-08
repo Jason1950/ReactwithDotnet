@@ -8,5 +8,6 @@ public class WeatherForecast
 
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 
-    public string? Summary { get; set; }
+    public string Summary { get; set; }
+    // remove '?' before string because we don't need that what is non dclare for type
 }
